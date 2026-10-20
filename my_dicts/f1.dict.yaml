@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# f1词库
+
+---
+name: f1
+version: "2025.05.22"
+sort: by_weight
+...
+红胎	hóng;sg tāi;ok	100
+白胎	bái;po tāi;ok	100
+黄胎	huáng;cb tāi;ok	100
+纽维	niǔ;si wéi;sv	100
+我法	wǒ;ga fǎ;dq	100
+冬测	dōng;wd cè;dd	100
+雨胎	yǔ;ad tāi;ok	100
+干胎	gàn;au tāi;ok	100
+罚退	fá;sd tuì;zg	100
+罚时	fá;sd shí;oc	100
+黑白旗	hēi;lh bái;po qí;fb	100
+未发车	wèi;am fā;fy chē;au	100
+暖胎器	nuǎn;oy tāi;ok qì;kk	100
+佩大师	pèi;rj dà;ar shī;lj	100
+格大旗	gé;mk dà;ar qí;fb	100
+马画龙	mǎ;va huà;at lóng;yp	100
+马桶狼	mǎ;va tǒng;my láng;ql	100
+饮料队	yǐn;uq liào;md duì;er	100
+轮对轮	lún;il duì;yc lún;il	100
+法拉驴	fǎ;dq lā;fl lǘ;mh	100
+一二带回	yī;aa èr;aa dài;cj huí;kk	100
+五星乳业	wǔ;aw xīng;ou rǔ;vv yè;la	100
+窝法乙烷	wō;bn fǎ;dq yǐ;vv wán;hy	100
+我法已完	wǒ;ga fǎ;dq yǐ;kv wán;by	100
+换胎时间	huàn;fr tāi;ok shí;oc jiān;mo	100
+强制进站	qiáng;gi zhì;nd jìn;zj zhàn;lv	100
+进站换胎	jìn;zj zhàn;lv huàn;fr tāi;ok	100
+领先过弯	lǐng;ry xiān;ne guò;zc wān;wg	100
+新胎测试	xīn;lj tāi;ok cè;dd shì;yg	100
+围场无谣言	wéi;kw chǎng;tp wú;ay yáo;yf yán;wk	100
+红黄条纹旗	hóng;sg huáng;cb tiáo;wm wén;sw qí;fb	100
+红色拖拉机	hóng;sg sè;db tuō;fy lā;fl jī;mj	100
+绿色拖拉机	lǜ;su sè;db tuō;fy lā;fl jī;mj	100
+鸡皮兔恩静	jī;yn pí;py tù;dd ēn;yx jìng;fy	100
+维修区起步	wéi;sv xiū;rp qū;kx qǐ;tj bù;vu	100

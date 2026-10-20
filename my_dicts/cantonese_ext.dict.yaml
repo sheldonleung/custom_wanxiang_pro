@@ -1,0 +1,44 @@
+#------粤语常用词扩充，包含方言用语和地方歇后语------
+---
+name: cantonese_ext
+version: "LTS"
+sort: by_weight
+...
+睇睇	dì;od dì;od	100
+打机	dǎ;fd jī;mj	100
+电鸡	diàn;ov,yv jī;yn	100
+掂水	diān;fv shuǐ;ln	100
+瞓觉	fèn;oi jué;xj	100
+富湾	fù;bt wān;dg	100
+陇村	lǒng;el cūn;mc	100
+攞好	luó;fv hǎo;nz	100
+攞号	luó;fv hào;kk	100
+攞嘢	luó;fv yě;ky	100
+攞住	luó;fv zhù;rv	100
+尼教	ní;ub jiào;lw	100
+新圩	xīn;lj wéi;ty	100
+揸住	zhā;fd zhù;rv	100
+揸实	zhā;fd shí;bd	100
+睇过下	dì;od guò;zc xià;ab	100
+攞过嚟	luó;fv guò;zc lí;ku	100
+乜地方	miē;vv dì;ty fāng;wv	100
+同佢讲	tóng;kk qú;rj jiǎng;yj	100
+未得闲	wèi;am dé;rc xián;mm	100
+唔掂水	wú;kk diān;fv shuǐ;ln	100
+唔好啰	wú;kk hǎo;nz luō;kx	100
+一嚿石	yī;aa huò;kj shí;ak	100
+一嚿钱	yī;aa huò;kj qián;jj	100
+一嚿砖	yī;aa huò;kj zhuān;uv	100
+睇过下先	dì;od guò;zc xià;ab xiān;ne	100
+攞号排队	luó;fv hào;kk pái;ff duì;er	100
+揸实啲嘢	zhā;fd shí;bd dī;ku yě;ky	100
+揸住嚿石	zhā;fd zhù;rv huò;kj shí;ak	100
+揸住嚿铁	zhā;fd zhù;rv huò;kj tiě;jf	100
+揸住嚿砖	zhā;fd zhù;rv huò;kj zhuān;uv	100
+揸住碌棍	zhā;fd zhù;rv lù;uu gùn;mb	100
+揸住碌木	zhā;fd zhù;rv lù;uu mù;ur	100
+揸住条铁	zhā;fd zhù;rv tiáo;wm tiě;jf	100
+睇睇有冇啰	dì;od dì;od yǒu;uo mǎo;uk luō;kx	100
+睇睇有冇先	dì;od dì;od yǒu;uo mǎo;uk xiān;ne	100
+你识条铁咩	nǐ;rx shí;yv tiáo;wm tiě;jf miē;ky	100
+厌过刮木薯	yàn;iq guò;zc guā;ud mù;ur shǔ;co	100

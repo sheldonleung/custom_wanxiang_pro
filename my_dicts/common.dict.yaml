@@ -1,0 +1,12 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 常用词库
+
+---
+name: common
+version: "LTS"
+sort: by_weight
+...
+曼牌	màn;oy pái;pu	100
+通义灵码	tōng;zy yì;dx líng;eh mǎ;um	100

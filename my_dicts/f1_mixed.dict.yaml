@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# f1词库
+
+---
+name: f1_mixed
+version: "2025.05.22"
+sort: by_weight
+...
+DRS	DRS
+DRS	drs
+P房	p'fáng
