@@ -457,15 +457,15 @@ keyboard:
       p: { tap: "p", swipe_up: "0", swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["p", "P"] } }
 
       # ── 第二行 ──
-      a: { tap: "a", swipe_up: { label: "～", value: "~" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["a", "A", "à", "á", "â", "ã", "ä", "å", "æ"] } }
-      s: { tap: "s", swipe_up: { label: "／", value: "/" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["s", "S", "ß"] } }
+      a: { tap: "a", swipe_up: { label: "（", value: "(" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["a", "A", "à", "á", "â", "ã", "ä", "å", "æ"] } }
+      s: { tap: "s", swipe_up: { label: "）", value: ")" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["s", "S", "ß"] } }
       d: { tap: "d", swipe_up: { label: "：", value: ":" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["d", "D"] } }
       f: { tap: "f", swipe_up: { label: "；", value: ";" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["f", "F"] } }
       g: { tap: "g", swipe_up: { label: "“", value: "“" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["g", "G"] } }
       h: { tap: "h", swipe_up: { label: "”", value: "”" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["h", "H"] } }
       j: { tap: "j", swipe_up: { label: "－", value: "-" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["j", "J"] } }
-      k: { tap: "k", swipe_up: { label: "（", value: "(" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["k", "K"] } }
-      l: { tap: "l", swipe_up: { label: "）", value: ")" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["l", "L"] } }
+      k: { tap: "k", swipe_up: { label: "～", value: "~" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["k", "K"] } }
+      l: { tap: "l", swipe_up: { label: "／", value: "/" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["l", "L"] } }
       # ── 第三行 ──
       z: { tap: "z", swipe_up: { label: "＊", value: "*" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: [ "z","Z"] } }
       x: { tap: "x", swipe_up: { label: "＠", value: "@" }, swipe_down: { label: "", action: "none", display: "key", bubble: false }, long_press: { display: "bubble", values: ["x", "X"] } }
@@ -517,15 +517,15 @@ keyboard:
       o: { tap: "o", swipe_up: "9", long_press: { display: "bubble", values: ["o", "O"] } }
       p: { tap: "p", swipe_up: "0", long_press: { display: "bubble", values: ["p", "P"] } }
       # ── 第二行 ──
-      a: { tap: "a", swipe_up: "~", long_press: { display: "bubble", values: ["a", "A"] } }
-      s: { tap: "s", swipe_up: "/", long_press: { display: "bubble", values: ["s", "S"] } }
+      a: { tap: "a", swipe_up: "(", long_press: { display: "bubble", values: ["a", "A"] } }
+      s: { tap: "s", swipe_up: ")", long_press: { display: "bubble", values: ["s", "S"] } }
       d: { tap: "d", swipe_up: ":", long_press: { display: "bubble", values: ["d", "D"] } }
       f: { tap: "f", swipe_up: ";", long_press: { display: "bubble", values: ["f", "F"] } }
       g: { tap: "g", swipe_up: "\"", long_press: { display: "bubble", values: ["g", "G"] } }
       h: { tap: "h", swipe_up: "\"", long_press: { display: "bubble", values: ["h", "H"] } }
       j: { tap: "j", swipe_up: "-", long_press: { display: "bubble", values: ["j", "J"] } }
-      k: { tap: "k", swipe_up: "(", long_press: { display: "bubble", values: ["k", "K"] } }
-      l: { tap: "l", swipe_up: ")", long_press: { display: "bubble", values: ["l", "L"] } }
+      k: { tap: "k", swipe_up: "~", long_press: { display: "bubble", values: ["k", "K"] } }
+      l: { tap: "l", swipe_up: "/", long_press: { display: "bubble", values: ["l", "L"] } }
       # ";": { tap: ";", shift: ":" }
 
       # ── 第三行 ──
@@ -583,8 +583,8 @@ keyboard:
       df: { tap: { label: "df", value: "d" }, swipe_up: "7", long_press: { display: "bubble", values: ["d", "f", "D", "F"] } }
       gh: { tap: { label: "gh", value: "g" }, swipe_up: "8", long_press: { display: "bubble", values: ["g", "h", "G", "H"] } }
       jk: { tap: { label: "jk", value: "j" }, swipe_up: "9", long_press: { display: "bubble", values: ["j", "k", "J", "K"] } }
-      l:  { tap: { label: "l", value: "l" }, swipe_up: "0", long_press: { display: "bubble", values: ["l", "L"] } }
-      zx: { tap: { label: "zx", value: "z" }, swipe_up: "*", long_press: { display: "bubble", values: ["z", "x", "Z", "X"] } }
+      l:  { tap: { label: "l", value: "l" }, swipe_up: "/", long_press: { display: "bubble", values: ["l", "L"] } }
+      zx: { tap: { label: "zx", value: "z" }, swipe_up: "0", long_press: { display: "bubble", values: ["z", "x", "Z", "X"] } }
       cv: { tap: { label: "cv", value: "c" }, swipe_up: "、", long_press: { display: "bubble", values: ["c", "v", "C", "V"] } }
       bn: { tap: { label: "bn", value: "b" }, swipe_up: "!", long_press: { display: "bubble", values: ["b", "n", "B", "N"] } }
       m:  { tap: { label: "m", value: "m" }, swipe_up: "#", long_press: { display: "bubble", values: ["m", "M"] } }
@@ -613,7 +613,7 @@ keyboard:
       fg: { tap: { label: "fg", value: "f" }, swipe_up: "9", long_press: { display: "bubble", values: ["f", "g", "F", "G"] } }
       h:  { tap: { label: "h", value: "h" }, swipe_up: "0", long_press: { display: "bubble", values: ["h", "H"] } }
       jk: { tap: { label: "jk", value: "j" }, swipe_up: "-", long_press: { display: "bubble", values: ["j", "k", "J", "K"] } }
-      l:  { tap: { label: "l", value: "l" }, swipe_up: ")", long_press: { display: "bubble", values: ["l", "L"] } }
+      l:  { tap: { label: "l", value: "l" }, swipe_up: "/", long_press: { display: "bubble", values: ["l", "L"] } }
       z:  { tap: { label: "z", value: "z" }, swipe_up: "*", long_press: { display: "bubble", values: ["z", "Z"] } }
       xc: { tap: { label: "xc", value: "x" }, swipe_up: "@", long_press: { display: "bubble", values: ["x", "c", "X", "C"] } }
       v:  { tap: { label: "v", value: "v" }, swipe_up: "?", long_press: { display: "bubble", values: ["v", "V"] } }
@@ -624,7 +624,7 @@ keyboard:
 
   # 拼音 18 键：we/rt/io、sd/fg/jk、xc/bn（对应方案 pinyin_18jian）
   qwerty_18:
-    schemas: [pinyin_18jian]
+    schemas: [pinyin_18jian,wanxiang_pro]
     button_layout: standard
     layout:
       rows:
@@ -645,7 +645,7 @@ keyboard:
       fg: { tap: { label: "fg", value: "f" }, swipe_up: "0", long_press: { display: "bubble", values: ["f", "g", "F", "G"] } }
       h:  { tap: { label: "h", value: "h" }, swipe_up: "”", long_press: { display: "bubble", values: ["h", "H"] } }
       jk: { tap: { label: "jk", value: "j" }, swipe_up: "-", long_press: { display: "bubble", values: ["j", "k", "J", "K"] } }
-      l:  { tap: { label: "l", value: "l" }, swipe_up: ")", long_press: { display: "bubble", values: ["l", "L"] } }
+      l:  { tap: { label: "l", value: "l" }, swipe_up: "/", long_press: { display: "bubble", values: ["l", "L"] } }
       z:  { tap: { label: "z", value: "z" }, swipe_up: "*", long_press: { display: "bubble", values: ["z", "Z"] } }
       xc: { tap: { label: "xc", value: "x" }, swipe_up: "@", long_press: { display: "bubble", values: ["x", "c", "X", "C"] } }
       v:  { tap: { label: "v", value: "v" }, swipe_up: "?", long_press: { display: "bubble", values: ["v", "V"] } }
