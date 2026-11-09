@@ -624,7 +624,7 @@ keyboard:
 
   # 拼音 18 键：we/rt/io、sd/fg/jk、xc/bn（对应方案 pinyin_18jian）
   qwerty_18:
-    schemas: [pinyin_18jian,wanxiang_pro]
+    schemas: [pinyin_18jian]
     button_layout: standard
     layout:
       rows:
